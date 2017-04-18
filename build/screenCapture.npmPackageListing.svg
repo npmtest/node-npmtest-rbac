@@ -1,33 +1,33 @@
 <svg height="478" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="478" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 12:11:23 +0000   306794 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 12:11:23 +0000      229 bytes  HISTORY.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 12:11:23 +0000     3479 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 12:11:23 +0000    10953 bytes  __tests__/role.spec.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 12:11:23 +0000     1924 bytes  controllers/express.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 12:11:23 +0000    30414 bytes  coverage/clover.xml</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 12:11:23 +0000   101757 bytes  coverage/coverage-final.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 12:11:23 +0000     5057 bytes  coverage/lcov-report/base.css</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 12:11:23 +0000     4267 bytes  coverage/lcov-report/index.html</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 12:11:23 +0000      676 bytes  coverage/lcov-report/prettify.css</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 12:11:23 +0000    17569 bytes  coverage/lcov-report/prettify.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 12:11:23 +0000      209 bytes  coverage/lcov-report/sort-arrow-sprite.png</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 12:11:23 +0000     5174 bytes  coverage/lcov-report/sorter.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 12:11:23 +0000     3577 bytes  coverage/lcov-report/tests/index.html</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 12:11:23 +0000    40861 bytes  coverage/lcov-report/tests/role.spec.js.html</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 12:11:23 +0000    15544 bytes  coverage/lcov.info</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 12:11:23 +0000     2199 bytes  dist/Base.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 12:11:23 +0000     5407 bytes  dist/Permission.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 12:11:23 +0000    23949 bytes  dist/RBAC.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 12:11:23 +0000     5768 bytes  dist/Role.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 12:11:23 +0000     1042 bytes  dist/index.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 12:11:23 +0000     6115 bytes  dist/storages/Memory.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 12:11:23 +0000     8060 bytes  dist/storages/Mongoose.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 12:11:23 +0000     7924 bytes  dist/storages/index.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 12:11:23 +0000      498 bytes  example/simple.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 12:11:23 +0000      366 bytes  gulpfile.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 12:11:23 +0000      281 bytes  jsdocConfig.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 12:11:23 +0000     3495 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 12:12:23 +0000   306794 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 12:12:23 +0000      229 bytes  HISTORY.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 12:12:23 +0000     3479 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 12:12:23 +0000    10953 bytes  __tests__/role.spec.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 12:12:23 +0000     1924 bytes  controllers/express.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 12:12:23 +0000    30414 bytes  coverage/clover.xml</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 12:12:23 +0000   101757 bytes  coverage/coverage-final.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 12:12:23 +0000     5057 bytes  coverage/lcov-report/base.css</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 12:12:23 +0000     4267 bytes  coverage/lcov-report/index.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 12:12:23 +0000      676 bytes  coverage/lcov-report/prettify.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 12:12:23 +0000    17569 bytes  coverage/lcov-report/prettify.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 12:12:23 +0000      209 bytes  coverage/lcov-report/sort-arrow-sprite.png</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 12:12:23 +0000     5174 bytes  coverage/lcov-report/sorter.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 12:12:23 +0000     3577 bytes  coverage/lcov-report/tests/index.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 12:12:23 +0000    40861 bytes  coverage/lcov-report/tests/role.spec.js.html</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 12:12:23 +0000    15544 bytes  coverage/lcov.info</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 12:12:23 +0000     2199 bytes  dist/Base.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 12:12:23 +0000     5407 bytes  dist/Permission.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 12:12:23 +0000    23949 bytes  dist/RBAC.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 12:12:23 +0000     5768 bytes  dist/Role.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 12:12:23 +0000     1042 bytes  dist/index.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 12:12:23 +0000     6115 bytes  dist/storages/Memory.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 12:12:23 +0000     8060 bytes  dist/storages/Mongoose.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 12:12:23 +0000     7924 bytes  dist/storages/index.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 12:12:23 +0000      498 bytes  example/simple.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 12:12:23 +0000      366 bytes  gulpfile.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 12:12:23 +0000      281 bytes  jsdocConfig.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 12:12:23 +0000     3495 bytes  package.json</tspan>
 </text>
 </svg>
